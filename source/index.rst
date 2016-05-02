@@ -1,18 +1,57 @@
+.. _label-Home:
 
-tpataky.net
-=======================================
+Applied Biomechanics Laboratory
+===================================
 
-Contents:
+:ref:`日本語 <label-homeJ>`
+
+
+.. image:: images/stochastic.png
+
+
+
+*Random processes in human movement.*
+
+.. toctree::
+   :hidden:
+   
+   indexJ.rst
+
 
 .. toctree::
    :maxdepth: 2
+   
+   Research.rst
 
 
+.. toctree::
+   :maxdepth: 2
+   
+   Publications.rst
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 2
+   
+   People.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   
+   Software.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   
+   Datasets.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   
+   Contact.rst
+
+
 

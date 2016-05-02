@@ -14,6 +14,7 @@
 
 import sys
 import os
+import shlex
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -28,10 +29,14 @@ import os
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = []
+extensions = ['sphinx.ext.graphviz',
+              'sphinxcontrib.googlemaps',
+              'sphinxcontrib.googlechart',
+]
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+# templates_path = ['_templates']
+templates_path = []
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
@@ -126,7 +131,7 @@ html_theme = 'alabaster'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-#html_logo = None
+html_logo = 'images/shinshu_alpha.png'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -152,7 +157,10 @@ html_static_path = ['_static']
 #html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
-#html_sidebars = {}
+html_sidebars = {
+   '**': ['globaltoc.html', 'searchbox.html'],
+   'using/windows': ['windowssidebar.html'],
+}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
