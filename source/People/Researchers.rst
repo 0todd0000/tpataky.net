@@ -4,19 +4,7 @@ Researchers
 ===================================
 
 
-Senior graduate students
--------------------------
-
-+---------------------------------------+-----------------------------------------------------------+
-| .. image:: images/kimura.png          |  :ref:`Kento Kimura <label-kimura>`                       |
-+---------------------------------------+-----------------------------------------------------------+
-| .. image:: images/takahashi.png       |  :ref:`Miho Takahashi <label-miho>`                       |
-+---------------------------------------+-----------------------------------------------------------+
-
-
-
-
-Junior graduate students
+Graduate students
 -------------------------
 
 +---------------------------------------+-----------------------------------------------------------+
@@ -26,7 +14,10 @@ Junior graduate students
 +---------------------------------------+-----------------------------------------------------------+
 | .. image:: images/yamaguchi.png       |  :ref:`Sachiho Yamaguchi <label-sachiho>`                 |
 +---------------------------------------+-----------------------------------------------------------+
-
+| .. image:: images/nakanishi.png       |  :ref:`Akira Nakanishi <label-nakanishi>`                 |
++---------------------------------------+-----------------------------------------------------------+
+| .. image:: images/kiyosawa.png        |  :ref:`Shuhei Kiyosawa <label-shuhei>`                    |
++---------------------------------------+-----------------------------------------------------------+
 
 
 
@@ -36,25 +27,31 @@ Honors students
 -----------------------
 
 +---------------------------------------+-----------------------------------------------------------+
-| .. image:: images/fujisawa.png        |  :ref:`Yuya Fujisawa <label-yuya>`                        |
+| .. image:: images/shibata.png         |  :ref:`Yuhei Shibata <label-shibata>`                     |
 +---------------------------------------+-----------------------------------------------------------+
-| .. image:: images/kiyosawa.png        |  :ref:`Shuhei Kiyosawa <label-shuhei>`                    |
+| .. image:: images/onouchi.png         |  :ref:`Yuito Onouchi <label-onouchi>`                     |
 +---------------------------------------+-----------------------------------------------------------+
-| .. image:: images/nakanishi.png       |  :ref:`Akira Nakanishi <label-nakanishi>`                 |
+| .. image:: images/hirose.png          |  :ref:`James Hirose <label-hirose>`                       |
 +---------------------------------------+-----------------------------------------------------------+
-
+| .. image:: images/nagaya.png          |  :ref:`Toshinari Nagaya <label-nagaya>`                   |
++---------------------------------------+-----------------------------------------------------------+
 
 
 
 .. toctree::
    :hidden:
 
-   Yuya.rst
+   Yusuke.rst
 
 .. toctree::
    :hidden:
 
-   Kimura.rst
+   Fumika.rst
+
+.. toctree::
+   :hidden:
+
+   Sachiho.rst
 
 
 .. toctree::
@@ -71,23 +68,21 @@ Honors students
 .. toctree::
    :hidden:
 
-   Yusuke.rst
+   Shibata.rst
 
 .. toctree::
    :hidden:
 
-   Fumika.rst
-
-
-.. toctree::
-   :hidden:
-
-   Miho.rst
-
+   Onouchi.rst
 
 .. toctree::
    :hidden:
 
-   Sachiho.rst
+   Hirose.rst
+
+.. toctree::
+   :hidden:
+
+   Nagaya.rst
 
 

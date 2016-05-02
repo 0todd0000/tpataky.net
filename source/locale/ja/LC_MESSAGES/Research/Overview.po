@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../source/Research/Overview.rst:4
 msgid "Overview"
-msgstr ""
+msgstr "概要"
 
 #: ../source/Research/Overview.rst:6
 msgid ""
@@ -32,39 +32,39 @@ msgstr ""
 
 #: ../source/Research/Overview.rst:18
 msgid "**Keywords**:"
-msgstr ""
+msgstr "キーワード"
 
 #: ../source/Research/Overview.rst:20
 msgid "Statistical Parametric Mapping"
-msgstr ""
+msgstr "統計パラメトリック・マッピング"
 
 #: ../source/Research/Overview.rst:21
 msgid "Random Field Theory"
-msgstr ""
+msgstr "確率場論"
 
 #: ../source/Research/Overview.rst:22
 msgid "Continuum Registration"
-msgstr ""
+msgstr "連続体の数値登録"
 
 #: ../source/Research/Overview.rst:23
 msgid "Probabilistic simulation"
-msgstr ""
+msgstr "確率的シミュレーション"
 
 #: ../source/Research/Overview.rst:31
 msgid "Lab Organization"
-msgstr ""
+msgstr "研究グループ"
 
 #: ../source/Research/Overview.rst:33
 msgid "Motion Analysis Group"
-msgstr ""
+msgstr "モーション解析グループ"
 
 #: ../source/Research/Overview.rst:34
 msgid "Golf Group"
-msgstr ""
+msgstr "ゴルフ・グループ"
 
 #: ../source/Research/Overview.rst:35
 msgid "FEA Group"
-msgstr ""
+msgstr "有限要素グループ"
 
 #: ../source/Research/Overview.rst:37
 msgid ""

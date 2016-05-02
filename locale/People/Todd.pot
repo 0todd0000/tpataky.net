@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 17:12+0900\n"
+"POT-Creation-Date: 2016-05-02 20:38+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,7 +49,7 @@ msgid "`rft1d <http://www.spm1d.org/rft1d>`_: One-Dimensional Random Field Theor
 msgstr ""
 
 #: ../source/People/Todd.rst:38
-msgid "I use the following free-and-open-source software:"
+msgid "I use the following open-source software:"
 msgstr ""
 
 #: ../source/People/Todd.rst:40
@@ -68,27 +68,15 @@ msgstr ""
 msgid "`OpenSim <http://opensim.stanford.edu>`_"
 msgstr ""
 
-#: ../source/People/Todd.rst:45
-msgid "I'm also proficient with the following commercial software:"
-msgstr ""
-
-#: ../source/People/Todd.rst:47
-msgid "MATLAB"
+#: ../source/People/Todd.rst:44
+msgid "`R <https://r-project.org>`_"
 msgstr ""
 
 #: ../source/People/Todd.rst:48
-msgid "LabView"
-msgstr ""
-
-#: ../source/People/Todd.rst:49
-msgid "ABAQUS"
-msgstr ""
-
-#: ../source/People/Todd.rst:57
 msgid "Curriculum Vitae"
 msgstr ""
 
-#: ../source/People/Todd.rst:59
+#: ../source/People/Todd.rst:50
 msgid ":download:`Download PDF <./downloads/ToddPatakyCV.pdf>`"
 msgstr ""
 

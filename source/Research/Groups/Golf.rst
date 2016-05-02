@@ -5,18 +5,17 @@ Golf Group
 ===================================
 
 .. image:: ../images/poster_golf.jpg
+    :width: 80%
+
+Members:
+-------------------------
+
+* :ref:`Akira Nakanishi<label-nakanishi>`
+
+* :ref:`Yuhei Shibata<label-shibata>`
 
 
-**Reserch details**
-
-
-+---------------------------------------+----------------------------------------------------------------------------------------+
-|**Kimura Kento**                       | :ref:`An evaluation using planter pressure in golf putting motion<label-kimura>`       |
-|                                       |                                                                                        |
-+---------------------------------------+----------------------------------------------------------------------------------------+
-
-
-
+Funded in part by a JSPS Houga research grant, with support from Nike Golf.
 
 
 

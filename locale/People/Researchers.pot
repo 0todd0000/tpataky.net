@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 17:12+0900\n"
+"POT-Creation-Date: 2016-05-02 20:38+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,46 +21,46 @@ msgid "Researchers"
 msgstr ""
 
 #: ../source/People/Researchers.rst:8
-msgid "Senior graduate students"
+msgid "Graduate students"
 msgstr ""
 
 #: ../source/People/Researchers.rst:11
-msgid ":ref:`Kento Kimura <label-kimura>`"
-msgstr ""
-
-#: ../source/People/Researchers.rst:13
-msgid ":ref:`Miho Takahashi <label-miho>`"
-msgstr ""
-
-#: ../source/People/Researchers.rst:20
-msgid "Junior graduate students"
-msgstr ""
-
-#: ../source/People/Researchers.rst:23
 msgid ":ref:`Yusuke Ohori <label-yusuke>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:25
+#: ../source/People/Researchers.rst:13
 msgid ":ref:`Fumika Sueyoshi <label-fumika>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:27
+#: ../source/People/Researchers.rst:15
 msgid ":ref:`Sachiho Yamaguchi <label-sachiho>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:36
-msgid "Honors students"
+#: ../source/People/Researchers.rst:17
+msgid ":ref:`Akira Nakanishi <label-nakanishi>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:39
-msgid ":ref:`Yuya Fujisawa <label-yuya>`"
-msgstr ""
-
-#: ../source/People/Researchers.rst:41
+#: ../source/People/Researchers.rst:19
 msgid ":ref:`Shuhei Kiyosawa <label-shuhei>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:43
-msgid ":ref:`Akira Nakanishi <label-nakanishi>`"
+#: ../source/People/Researchers.rst:27
+msgid "Honors students"
+msgstr ""
+
+#: ../source/People/Researchers.rst:30
+msgid ":ref:`Yuhei Shibata <label-shibata>`"
+msgstr ""
+
+#: ../source/People/Researchers.rst:32
+msgid ":ref:`Yuito Onouchi <label-onouchi>`"
+msgstr ""
+
+#: ../source/People/Researchers.rst:34
+msgid ":ref:`James Hirose <label-hirose>`"
+msgstr ""
+
+#: ../source/People/Researchers.rst:36
+msgid ":ref:`Toshinari Nagaya <label-nagaya>`"
 msgstr ""
 

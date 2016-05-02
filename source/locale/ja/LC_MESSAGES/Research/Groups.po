@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../source/Research/Groups.rst:4
 msgid "Groups"
-msgstr ""
+msgstr "研究グループ"
 
 #: ../source/Research/Groups.rst:6
 msgid "The lab is supported by three research units:"

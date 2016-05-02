@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 17:12+0900\n"
+"POT-Creation-Date: 2016-05-02 20:38+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,5 +50,26 @@ msgstr ""
 
 #: ../source/People/Graduates.rst:19
 msgid "2014-2015"
+msgstr ""
+
+#: ../source/People/Graduates.rst:21
+msgid "**Kento Kimura**"
+msgstr ""
+
+#: ../source/People/Graduates.rst:22
+#: ../source/People/Graduates.rst:25
+msgid "2013-2016"
+msgstr ""
+
+#: ../source/People/Graduates.rst:24
+msgid "**Miho Takahashi**"
+msgstr ""
+
+#: ../source/People/Graduates.rst:27
+msgid "**Yuya Fujisawa**"
+msgstr ""
+
+#: ../source/People/Graduates.rst:28
+msgid "2015-2016"
 msgstr ""
 

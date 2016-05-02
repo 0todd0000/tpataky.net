@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../source/Research/Projects.rst:4
 msgid "Projects"
-msgstr ""
+msgstr "研究テーマ"
 
 #: ../source/Research/Projects.rst:6
 msgid "The lab is currently engaged in three separately funded projects:"

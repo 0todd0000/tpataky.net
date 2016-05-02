@@ -35,22 +35,13 @@ I am the main developer and maintainer of two open-source software packages:
 - `rft1d <http://www.spm1d.org/rft1d>`_: One-Dimensional Random Field Theory (coming soon)
 
 
-I use the following free-and-open-source software:
+I use the following open-source software:
 
 - `Python <http://www.python.org>`_
 - `Blender <http://www.blender.org>`_
 - `FEBio <http://www.febio.org>`_
 - `OpenSim <http://opensim.stanford.edu>`_
-
-I'm also proficient with the following commercial software:
-
-- MATLAB
-- LabView
-- ABAQUS
-
-
-
-
+- `R <https://r-project.org>`_
 
 
 Curriculum Vitae

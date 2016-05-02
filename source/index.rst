@@ -31,7 +31,7 @@ Applied Biomechanics Laboratory
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    Software.rst
 

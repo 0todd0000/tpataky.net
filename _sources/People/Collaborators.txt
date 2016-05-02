@@ -3,17 +3,17 @@
 Collaborators
 ===================================
 
-The lab is very grateful to our key collaborators (listed below).
+The lab is very grateful to our collaborators:
 
-We are also actively involved in collaborations with:
-
-
-- University of Auckland, New Zealand
-- University of Leuven, Belgium
-- University of Liverpool, UK
-- University of Otago, New Zealand
-- University of Queensland, Australia
-- University of Virginia, USA
+- Auckland Bioengineering Institute
+- Edith Cowan University
+- Hull-York Medical School
+- Nike Golf
+- University of Leuven
+- University of Liverpool
+- University of Otago
+- University of Queensland
+- University of Western Australia
 
 
 
@@ -34,11 +34,16 @@ Liverpool John Moores University
 | .. image:: images/collaborators/mark.jpg            | **Mark Robinson**                            |
 |                                                     |  `Mark at ResearchGate.net`_                 |
 +-----------------------------------------------------+----------------------------------------------+
+
+
+
+University of Leuven
+--------------------------------
+
++-----------------------------------------------------+----------------------------------------------+
 | .. image:: images/collaborators/jos.jpg             | **Jos Vanrenterghem**                        |
 |                                                     |  `Jos at ResearchGate.net`_                  |
 +-----------------------------------------------------+----------------------------------------------+
-
-
 
 
 

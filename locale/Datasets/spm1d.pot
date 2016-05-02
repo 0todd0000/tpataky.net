@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 17:12+0900\n"
+"POT-Creation-Date: 2016-05-02 20:38+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,18 +21,10 @@ msgid "spm1d"
 msgstr ""
 
 #: ../source/Datasets/spm1d.rst:6
-msgid "A variety of datasets are available at `spm1d.org <http://www.spm1d.org>`_."
+msgid "A variety of datasets are available at `www.spm1d.org <http://www.spm1d.org>`_."
 msgstr ""
 
-#: ../source/Datasets/spm1d.rst:13
-msgid "Check both:"
-msgstr ""
-
-#: ../source/Datasets/spm1d.rst:15
-msgid "The ./Downloads/Datasets section of the site"
-msgstr ""
-
-#: ../source/Datasets/spm1d.rst:16
-msgid "The ./spm1d/examples section of the downloadable software"
+#: ../source/Datasets/spm1d.rst:12
+msgid "`Using the \"spm1d.data\" interface to accessing datasets <http://www.spm1d.org/NewFeatures.html#datasets>`_"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 17:12+0900\n"
+"POT-Creation-Date: 2016-05-02 20:38+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,27 +21,9 @@ msgid "Software"
 msgstr ""
 
 #: ../source/Software.rst:8
-msgid "spm1d"
-msgstr ""
-
-#: ../source/Software.rst:13
-msgid "`One-dimensional statistical parametric mapping (spm1d.org) <http://www.spm1d.org>`_"
-msgstr ""
-
+#: ../source/Software.rst:9
 #: ../source/Software.rst:18
 #: ../source/Software.rst:19
 msgid "\\"
-msgstr ""
-
-#: ../source/Software.rst:23
-msgid "rft1d"
-msgstr ""
-
-#: ../source/Software.rst:27
-msgid "One-dimensional random field theory"
-msgstr ""
-
-#: ../source/Software.rst:29
-msgid "(Coming soon)"
 msgstr ""
 

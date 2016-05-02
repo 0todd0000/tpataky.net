@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 17:12+0900\n"
+"POT-Creation-Date: 2016-05-02 20:01+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,93 +22,90 @@ msgstr ""
 msgid "Finite Element Analysis Group"
 msgstr ""
 
-#: ../source/Research/Groups/FEA.rst:10
-msgid "FEAgroup Poster"
+#: ../source/Research/Groups/FEA.rst:16
+msgid "Members:"
 msgstr ""
 
-#: ../source/Research/Groups/FEA.rst:22
-msgid "Research"
+#: ../source/Research/Groups/FEA.rst:18
+msgid ":ref:`Yusuke Ohori<label-yusuke>`"
 msgstr ""
 
-#: ../source/Research/Groups/FEA.rst:23
-msgid "Bone fracture risk evaluation of the osteoporotic bone"
+#: ../source/Research/Groups/FEA.rst:20
+msgid ":ref:`Sachiho Yamaguchi<label-sachiho>`"
 msgstr ""
 
-#: ../source/Research/Groups/FEA.rst:27
-msgid "Background"
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:29
-msgid "Osteoporotic patients increase."
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:30
-msgid "Osteoporosis is the disease that becomes easy to be fractured."
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:31
-msgid "By the bone fracture, everyday life may become difficult."
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:32
-msgid "It is important that we understand the risk of the bone fracture."
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:36
-msgid "Purpose"
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:38
-msgid "We analyze bone models to discover the risk of the bone fracture."
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:42
-msgid "Research contents"
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:44
-msgid "We use the bone model that I constituted from CT images."
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:45
-msgid "We set the parameter of the model."
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:46
-msgid "We make a finite element analysis."
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:49
-msgid "Equipment"
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:50
-msgid "Python"
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:51
-msgid "X-ray CT scanner"
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:52
-msgid "Cluster"
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:56
-msgid "Progress reports"
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:58
-msgid "Make simple bone models by Blender and complex bone models by CT images"
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:59
-msgid "Perform Probabilistic Analysis(PA)"
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:65
+#: ../source/Research/Groups/FEA.rst:67
 msgid ""
-"It is partly funded by an International Exchanges Scheme from "
+"Funded in part by an International Exchanges Scheme from "
 "`RoyalSociety(UK) <http://royalsocietypublishing.org>`_."
 msgstr ""
+
+#~ msgid "FEAgroup Poster"
+#~ msgstr ""
+
+#~ msgid "Research"
+#~ msgstr ""
+
+#~ msgid "Bone fracture risk evaluation of the osteoporotic bone"
+#~ msgstr ""
+
+#~ msgid "Background"
+#~ msgstr ""
+
+#~ msgid "Osteoporotic patients increase."
+#~ msgstr ""
+
+#~ msgid "Osteoporosis is the disease that becomes easy to be fractured."
+#~ msgstr ""
+
+#~ msgid "By the bone fracture, everyday life may become difficult."
+#~ msgstr ""
+
+#~ msgid "It is important that we understand the risk of the bone fracture."
+#~ msgstr ""
+
+#~ msgid "Purpose"
+#~ msgstr ""
+
+#~ msgid "We analyze bone models to discover the risk of the bone fracture."
+#~ msgstr ""
+
+#~ msgid "Research contents"
+#~ msgstr ""
+
+#~ msgid "We use the bone model that I constituted from CT images."
+#~ msgstr ""
+
+#~ msgid "We set the parameter of the model."
+#~ msgstr ""
+
+#~ msgid "We make a finite element analysis."
+#~ msgstr ""
+
+#~ msgid "Equipment"
+#~ msgstr ""
+
+#~ msgid "Python"
+#~ msgstr ""
+
+#~ msgid "X-ray CT scanner"
+#~ msgstr ""
+
+#~ msgid "Cluster"
+#~ msgstr ""
+
+#~ msgid "Progress reports"
+#~ msgstr ""
+
+#~ msgid "Make simple bone models by Blender and complex bone models by CT images"
+#~ msgstr ""
+
+#~ msgid "Perform Probabilistic Analysis(PA)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "It is partly funded by an "
+#~ "International Exchanges Scheme from "
+#~ "`RoyalSociety(UK) <http://royalsocietypublishing.org>`_."
+#~ msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 17:12+0900\n"
+"POT-Creation-Date: 2016-05-02 20:38+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,38 +21,30 @@ msgid "Motion Analysis Group"
 msgstr ""
 
 #: ../source/Research/Groups/MotionAnalysis.rst:15
-msgid "Members and Research"
+msgid "Members:"
 msgstr ""
 
-#: ../source/Research/Groups/MotionAnalysis.rst:18
-msgid "**Miho Takahashi**"
+#: ../source/Research/Groups/MotionAnalysis.rst:17
+msgid ":ref:`Fumika Sueyoshi<label-fumika>`"
 msgstr ""
 
-#: ../source/Research/Groups/MotionAnalysis.rst:18
-msgid ":ref:`More information <label-miho>`"
-msgstr ""
-
-#: ../source/Research/Groups/MotionAnalysis.rst:21
-msgid "**Fumika Sueyoshi**"
+#: ../source/Research/Groups/MotionAnalysis.rst:19
+msgid ":ref:`Shuhei Kiyosawa<label-shuhei>`"
 msgstr ""
 
 #: ../source/Research/Groups/MotionAnalysis.rst:21
-msgid ":ref:`More information<label-fumika>`"
+msgid ":ref:`Yuito Onouchi<label-onouchi>`"
 msgstr ""
 
-#: ../source/Research/Groups/MotionAnalysis.rst:24
-msgid "**Yuya Fujisawa**"
+#: ../source/Research/Groups/MotionAnalysis.rst:23
+msgid ":ref:`James Hirose<label-hirose>`"
 msgstr ""
 
-#: ../source/Research/Groups/MotionAnalysis.rst:24
-msgid ":ref:`More information<label-yuya>`"
+#: ../source/Research/Groups/MotionAnalysis.rst:25
+msgid ":ref:`Toshinari Nagaya<label-nagaya>`"
 msgstr ""
 
-#: ../source/Research/Groups/MotionAnalysis.rst:27
-msgid "**Shuhei Kiyosawa**"
-msgstr ""
-
-#: ../source/Research/Groups/MotionAnalysis.rst:27
-msgid ":ref:`More information<label-shuhei>`"
+#: ../source/Research/Groups/MotionAnalysis.rst:29
+msgid "Funded by a JSPS Wakate A grant."
 msgstr ""
 

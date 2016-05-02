@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 17:12+0900\n"
+"POT-Creation-Date: 2016-05-02 20:38+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,35 +21,47 @@ msgid "Collaborators"
 msgstr ""
 
 #: ../source/People/Collaborators.rst:6
-msgid "The lab is very grateful to our key collaborators (listed below)."
+msgid "The lab is very grateful to our collaborators:"
 msgstr ""
 
 #: ../source/People/Collaborators.rst:8
-msgid "We are also actively involved in collaborations with:"
+msgid "Auckland Bioengineering Institute"
+msgstr ""
+
+#: ../source/People/Collaborators.rst:9
+msgid "Edith Cowan University"
+msgstr ""
+
+#: ../source/People/Collaborators.rst:10
+#: ../source/People/Collaborators.rst:64
+msgid "Hull-York Medical School"
 msgstr ""
 
 #: ../source/People/Collaborators.rst:11
-msgid "University of Auckland, New Zealand"
+#: ../source/People/Collaborators.rst:52
+msgid "Nike Golf"
 msgstr ""
 
 #: ../source/People/Collaborators.rst:12
-msgid "University of Leuven, Belgium"
+#: ../source/People/Collaborators.rst:41
+msgid "University of Leuven"
 msgstr ""
 
 #: ../source/People/Collaborators.rst:13
-msgid "University of Liverpool, UK"
+msgid "University of Liverpool"
 msgstr ""
 
 #: ../source/People/Collaborators.rst:14
-msgid "University of Otago, New Zealand"
+msgid "University of Otago"
 msgstr ""
 
 #: ../source/People/Collaborators.rst:15
-msgid "University of Queensland, Australia"
+msgid "University of Queensland"
 msgstr ""
 
 #: ../source/People/Collaborators.rst:16
-msgid "University of Virginia, USA"
+#: ../source/People/Collaborators.rst:77
+msgid "University of Western Australia"
 msgstr ""
 
 #: ../source/People/Collaborators.rst:31
@@ -64,47 +76,35 @@ msgstr ""
 msgid "`Mark at ResearchGate.net`_"
 msgstr ""
 
-#: ../source/People/Collaborators.rst:37
+#: ../source/People/Collaborators.rst:44
 msgid "**Jos Vanrenterghem**"
 msgstr ""
 
-#: ../source/People/Collaborators.rst:38
+#: ../source/People/Collaborators.rst:45
 msgid "`Jos at ResearchGate.net`_"
 msgstr ""
 
-#: ../source/People/Collaborators.rst:47
-msgid "Nike Golf"
-msgstr ""
-
-#: ../source/People/Collaborators.rst:50
+#: ../source/People/Collaborators.rst:55
 msgid "**Mario Lafortune**"
 msgstr ""
 
-#: ../source/People/Collaborators.rst:51
+#: ../source/People/Collaborators.rst:56
 msgid "`Mario at LinkedIn.com`_"
 msgstr ""
 
-#: ../source/People/Collaborators.rst:59
-msgid "Hull-York Medical School"
-msgstr ""
-
-#: ../source/People/Collaborators.rst:62
+#: ../source/People/Collaborators.rst:67
 msgid "**Phillip Cox**"
 msgstr ""
 
-#: ../source/People/Collaborators.rst:63
+#: ../source/People/Collaborators.rst:68
 msgid "`Phil at ResearchGate.net`_"
 msgstr ""
 
-#: ../source/People/Collaborators.rst:72
-msgid "University of Western Australia"
-msgstr ""
-
-#: ../source/People/Collaborators.rst:75
+#: ../source/People/Collaborators.rst:80
 msgid "**Cyril Donnelly**"
 msgstr ""
 
-#: ../source/People/Collaborators.rst:76
+#: ../source/People/Collaborators.rst:81
 msgid "`Cyril at ResearchGate.net`_"
 msgstr ""
 
