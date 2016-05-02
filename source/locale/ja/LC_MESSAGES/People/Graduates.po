@@ -20,11 +20,11 @@ msgstr ""
 
 #: ../source/People/Graduates.rst:4
 msgid "Graduates"
-msgstr ""
+msgstr "卒業生"
 
 #: ../source/People/Graduates.rst:9
 msgid "**Kohei Nakamura**"
-msgstr ""
+msgstr "中村恒平"
 
 #: ../source/People/Graduates.rst:10
 msgid "2011-2014"
@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../source/People/Graduates.rst:12
 msgid "**Hiroya Endo**"
-msgstr ""
+msgstr "遠藤大也"
 
 #: ../source/People/Graduates.rst:13
 msgid "2012-2015"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../source/People/Graduates.rst:15
 msgid "**Shinpei Kurimoto**"
-msgstr ""
+msgstr "栗本慎平"
 
 #: ../source/People/Graduates.rst:16
 msgid "2012-2013"
@@ -48,7 +48,7 @@ msgstr ""
 
 #: ../source/People/Graduates.rst:18
 msgid "**Ken Takada**"
-msgstr ""
+msgstr "高田顕"
 
 #: ../source/People/Graduates.rst:19
 msgid "2014-2015"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: ../source/People/Graduates.rst:21
 msgid "**Kento Kimura**"
-msgstr ""
+msgstr "木村健登"
 
 #: ../source/People/Graduates.rst:22 ../source/People/Graduates.rst:25
 msgid "2013-2016"
@@ -64,11 +64,11 @@ msgstr ""
 
 #: ../source/People/Graduates.rst:24
 msgid "**Miho Takahashi**"
-msgstr ""
+msgstr "高橋美保"
 
 #: ../source/People/Graduates.rst:27
 msgid "**Yuya Fujisawa**"
-msgstr ""
+msgstr "藤澤侑也"
 
 #: ../source/People/Graduates.rst:28
 msgid "2015-2016"

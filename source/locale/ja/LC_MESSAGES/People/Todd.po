@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../source/People/Todd.rst:4
 msgid "Todd Pataky"
-msgstr ""
+msgstr "トッド・パタキ"
 
 #: ../source/People/Todd.rst:9
 msgid ""
@@ -33,7 +33,7 @@ msgstr ""
 
 #: ../source/People/Todd.rst:19
 msgid "Research theme"
-msgstr ""
+msgstr "研究テーマ"
 
 #: ../source/People/Todd.rst:21
 msgid ""
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../source/People/Todd.rst:30
 msgid "Software"
-msgstr ""
+msgstr "ソフトウェア"
 
 #: ../source/People/Todd.rst:32
 msgid ""
@@ -93,7 +93,7 @@ msgstr ""
 
 #: ../source/People/Todd.rst:48
 msgid "Curriculum Vitae"
-msgstr ""
+msgstr "履歴書"
 
 #: ../source/People/Todd.rst:50
 msgid ":download:`Download PDF <./downloads/ToddPatakyCV.pdf>`"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 21:00+0900\n"
+"POT-Creation-Date: 2016-05-03 07:53+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,16 +25,13 @@ msgid "Student Room"
 msgstr ""
 
 #: ../source/Research/Facilities.rst:12
-msgid "Details coming soon"
+#: ../source/Research/Facilities.rst:20
+#: ../source/Research/Facilities.rst:28
+msgid "Coming soon."
 msgstr ""
 
 #: ../source/Research/Facilities.rst:18
 msgid "Laboratory #1:  Golf Putting"
-msgstr ""
-
-#: ../source/Research/Facilities.rst:20
-#: ../source/Research/Facilities.rst:28
-msgid "Laboratory room under construction"
 msgstr ""
 
 #: ../source/Research/Facilities.rst:26

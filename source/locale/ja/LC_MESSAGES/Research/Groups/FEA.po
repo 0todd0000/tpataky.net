@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../source/Research/Groups/FEA.rst:5
 msgid "Finite Element Analysis Group"
-msgstr ""
+msgstr "FEA グループ"
 
 #: ../source/Research/Groups/FEA.rst:7
 msgid ""

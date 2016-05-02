@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 21:00+0900\n"
+"POT-Creation-Date: 2016-05-03 07:53+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,39 +28,39 @@ msgstr ""
 msgid ":ref:`Yusuke Ohori <label-yusuke>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:13
+#: ../source/People/Researchers.rst:14
 msgid ":ref:`Fumika Sueyoshi <label-fumika>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:15
+#: ../source/People/Researchers.rst:17
 msgid ":ref:`Sachiho Yamaguchi <label-sachiho>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:17
+#: ../source/People/Researchers.rst:20
 msgid ":ref:`Akira Nakanishi <label-nakanishi>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:19
+#: ../source/People/Researchers.rst:23
 msgid ":ref:`Shuhei Kiyosawa <label-shuhei>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:27
+#: ../source/People/Researchers.rst:32
 msgid "Honors students"
 msgstr ""
 
-#: ../source/People/Researchers.rst:30
+#: ../source/People/Researchers.rst:35
 msgid ":ref:`Yuhei Shibata <label-shibata>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:32
+#: ../source/People/Researchers.rst:38
 msgid ":ref:`Yuito Onouchi <label-onouchi>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:34
-msgid ":ref:`James Hirose <label-hirose>`"
+#: ../source/People/Researchers.rst:41
+msgid ":ref:`Toshinari Nagaya <label-nagaya>`"
 msgstr ""
 
-#: ../source/People/Researchers.rst:36
-msgid ":ref:`Toshinari Nagaya <label-nagaya>`"
+#: ../source/People/Researchers.rst:44
+msgid ":ref:`James Hirose <label-hirose>`"
 msgstr ""
 

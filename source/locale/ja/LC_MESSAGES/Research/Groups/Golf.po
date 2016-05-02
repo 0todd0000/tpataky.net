@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../source/Research/Groups/Golf.rst:5
 msgid "Golf Group"
-msgstr ""
+msgstr "ゴルフ・グループ"
 
 #: ../source/Research/Groups/Golf.rst:7
 msgid ""

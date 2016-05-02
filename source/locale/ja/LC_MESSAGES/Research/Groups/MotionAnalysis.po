@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../source/Research/Groups/MotionAnalysis.rst:5
 msgid "Motion Analysis Group"
-msgstr ""
+msgstr "モーション解析グループ"
 
 #: ../source/Research/Groups/MotionAnalysis.rst:7
 msgid "This group is funded by a \"Wakate A\" research grant from JSPS (Japan)."

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 21:00+0900\n"
+"POT-Creation-Date: 2016-05-03 07:53+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,60 +25,52 @@ msgid "Motion capture"
 msgstr ""
 
 #: ../source/Research/Equipment.rst:10
-#: ../source/Research/Equipment.rst:55
-#: ../source/Research/Equipment.rst:64
-msgid "Coming in 2015."
+#: ../source/Research/Equipment.rst:50
+#: ../source/Research/Equipment.rst:59
+msgid "Coming soon."
 msgstr ""
 
-#: ../source/Research/Equipment.rst:18
-msgid "Force plate"
-msgstr ""
-
-#: ../source/Research/Equipment.rst:20
-msgid "Coming in 2016."
-msgstr ""
-
-#: ../source/Research/Equipment.rst:27
+#: ../source/Research/Equipment.rst:22
 msgid "Dynamic load distribution"
 msgstr ""
 
-#: ../source/Research/Equipment.rst:29
+#: ../source/Research/Equipment.rst:24
 msgid "Zebris FDM-2"
 msgstr ""
 
-#: ../source/Research/Equipment.rst:35
+#: ../source/Research/Equipment.rst:30
 msgid "High-res dynamic load distribution"
 msgstr ""
 
-#: ../source/Research/Equipment.rst:37
+#: ../source/Research/Equipment.rst:32
 msgid "XSENSOR custom."
 msgstr ""
 
-#: ../source/Research/Equipment.rst:44
+#: ../source/Research/Equipment.rst:39
 msgid "Portable dynamic load distribution"
 msgstr ""
 
-#: ../source/Research/Equipment.rst:46
+#: ../source/Research/Equipment.rst:41
 msgid "Novel Pedar-X"
 msgstr ""
 
-#: ../source/Research/Equipment.rst:53
+#: ../source/Research/Equipment.rst:48
 msgid "Indoor putting green"
 msgstr ""
 
-#: ../source/Research/Equipment.rst:62
+#: ../source/Research/Equipment.rst:57
 msgid "Putting kinematics measurement"
 msgstr ""
 
-#: ../source/Research/Equipment.rst:71
+#: ../source/Research/Equipment.rst:66
 msgid "Computer cluster"
 msgstr ""
 
-#: ../source/Research/Equipment.rst:73
+#: ../source/Research/Equipment.rst:68
 msgid "24-node MacMini cluster."
 msgstr ""
 
-#: ../source/Research/Equipment.rst:75
-msgid "For parallel computation and and stochastic simulation."
+#: ../source/Research/Equipment.rst:70
+msgid "For parallel computation and and probabilistic simulation."
 msgstr ""
 

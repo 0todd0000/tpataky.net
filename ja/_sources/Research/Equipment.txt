@@ -7,17 +7,12 @@ Equipment
 Motion capture
 --------------------------------------
 
-.. note:: Coming in 2015.
-
-.. **Ditect Pro-Tracker II**
+Coming soon.
 
 
 
 
-Force plate
---------------------------------------
 
-.. note:: Coming in 2016.
 
 
 
@@ -52,7 +47,7 @@ Novel Pedar-X
 Indoor putting green
 --------------------------------------
 
-.. note:: Coming in 2015.
+Coming soon.
 
 
 
@@ -61,7 +56,7 @@ Indoor putting green
 Putting kinematics measurement
 --------------------------------------
 
-.. note:: Coming in 2015.
+Coming soon.
 
 
 
@@ -72,7 +67,7 @@ Computer cluster
 
 24-node MacMini cluster.
 
-For parallel computation and and stochastic simulation.
+For parallel computation and and probabilistic simulation.
 
 
 

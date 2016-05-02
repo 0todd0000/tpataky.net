@@ -9,7 +9,7 @@ Facilities
 Student Room
 -----------------------------------
 
-.. note:: Details coming soon
+Coming soon.
 
 
 
@@ -17,7 +17,7 @@ Student Room
 Laboratory #1:  Golf Putting
 -----------------------------------
 
-.. note:: Laboratory room under construction
+Coming soon.
 
 
 
@@ -25,4 +25,4 @@ Laboratory #1:  Golf Putting
 Laboratory #2:  Motion Analysis
 -----------------------------------
 
-.. note:: Laboratory room under construction
+Coming soon.

@@ -20,64 +20,51 @@ msgstr ""
 
 #: ../source/People/Researchers.rst:4
 msgid "Researchers"
-msgstr ""
+msgstr "学生"
 
 #: ../source/People/Researchers.rst:8
 msgid "Graduate students"
-msgstr ""
+msgstr "大学院生"
 
 #: ../source/People/Researchers.rst:11
 msgid ":ref:`Yusuke Ohori <label-yusuke>`"
-msgstr ""
+msgstr ":ref:`大堀友輔 <label-yusuke>`"
 
 #: ../source/People/Researchers.rst:13
 msgid ":ref:`Fumika Sueyoshi <label-fumika>`"
-msgstr ""
+msgstr ":ref:`末吉史佳 <label-fumika>`"
 
 #: ../source/People/Researchers.rst:15
 msgid ":ref:`Sachiho Yamaguchi <label-sachiho>`"
-msgstr ""
+msgstr ":ref:`山口幸歩 <label-sachiho>`"
 
 #: ../source/People/Researchers.rst:17
 msgid ":ref:`Akira Nakanishi <label-nakanishi>`"
-msgstr ""
+msgstr ":ref:`中西晟 <label-nakanishi>`"
 
 #: ../source/People/Researchers.rst:19
 msgid ":ref:`Shuhei Kiyosawa <label-shuhei>`"
-msgstr ""
+msgstr ":ref:`清澤周平 <label-shuhei>`"
 
 #: ../source/People/Researchers.rst:27
 msgid "Honors students"
-msgstr ""
+msgstr "学部生"
 
 #: ../source/People/Researchers.rst:30
 msgid ":ref:`Yuhei Shibata <label-shibata>`"
-msgstr ""
+msgstr ":ref:`柴田雄平 <label-shibata>`"
 
 #: ../source/People/Researchers.rst:32
 msgid ":ref:`Yuito Onouchi <label-onouchi>`"
-msgstr ""
+msgstr ":ref:`小野内唯人 <label-onouchi>`"
 
 #: ../source/People/Researchers.rst:34
 msgid ":ref:`James Hirose <label-hirose>`"
-msgstr ""
+msgstr ":ref:`廣瀬ジェームス <label-hirose>`"
 
 #: ../source/People/Researchers.rst:36
 msgid ":ref:`Toshinari Nagaya <label-nagaya>`"
-msgstr ""
+msgstr ":ref:`永谷俊成 <label-nagaya>`"
 
-#~ msgid "Senior graduate students"
-#~ msgstr ""
 
-#~ msgid ":ref:`Kento Kimura <label-kimura>`"
-#~ msgstr ""
-
-#~ msgid ":ref:`Miho Takahashi <label-miho>`"
-#~ msgstr ""
-
-#~ msgid "Junior graduate students"
-#~ msgstr ""
-
-#~ msgid ":ref:`Yuya Fujisawa <label-yuya>`"
-#~ msgstr ""
 
