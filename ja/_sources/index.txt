@@ -1,0 +1,50 @@
+.. _label-Home:
+
+Applied Biomechanics Laboratory
+===================================
+
+
+
+.. image:: images/stochastic.png
+
+
+
+*Randomly processes in human movement.*
+
+.. toctree::
+   :maxdepth: 2
+   
+   Research.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   
+   Publications.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   
+   People.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   
+   Software.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   
+   Datasets.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   
+   Contact.rst
+
+
+

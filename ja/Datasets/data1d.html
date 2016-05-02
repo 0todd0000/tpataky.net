@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>data1d &mdash; tpataky.net 0.2 ドキュメント</title>
+    
+    <link rel="stylesheet" href="../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '0.2',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="../_static/translations.js"></script>
+    <link rel="top" title="tpataky.net 0.2 ドキュメント" href="../index.html" />
+    <link rel="up" title="Datasets" href="../Datasets.html" />
+    <link rel="next" title="Contact" href="../Contact.html" />
+    <link rel="prev" title="mun104" href="mun104.html" />
+   
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head>
+  <body role="document">  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="data1d">
+<h1>data1d<a class="headerlink" href="#data1d" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p>Simulated scalar datasets (#01)</p>
+<a class="reference internal image-reference" href="../_images/fig_datasetsABC.png"><img alt="../_images/fig_datasetsABC.png" src="../_images/fig_datasetsABC.png" style="width: 250.0px; height: 500.0px;" /></a>
+<div class="section" id="overview">
+<h2>Overview<a class="headerlink" href="#overview" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>These three datasets were generated to illustrate the basic concepts of random field theory-based statistical inference.
+Each dataset contains ten scalar 1D trajectories, each with 101 nodes.</p>
+<ul class="simple">
+<li>Datasets A and B represent one-sample (or paired) designs.</li>
+<li>Dataset C represents a regression design, with the following independent variable values: [50, 53.75, 57.5, 61.25, 65, 75, 78.75, 82.5, 86.25, 90]</li>
+</ul>
+</div>
+<div class="section" id="data">
+<h2>Data<a class="headerlink" href="#data" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<ul class="simple">
+<li><a class="reference download internal" href="../_downloads/simscalar01.h5.zip" download=""><code class="xref download docutils literal"><span class="pre">simscalar01.h5.zip</span></code></a> (HDF5 format)</li>
+<li><a class="reference download internal" href="../_downloads/simscalar01.csv.zip" download=""><code class="xref download docutils literal"><span class="pre">simscalar01.csv.zip</span></code></a> (CSV format)</li>
+</ul>
+</div>
+<div class="section" id="reference">
+<h2>Reference<a class="headerlink" href="#reference" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>Pataky TC, Vanrenterghem J, Robinson MA (2015).
+Zero- vs. one-dimensional, parametric vs. non-parametric, and confidence interval vs. hypothesis testing procedures in one-dimensional biomechanical trajectory analysis.
+Journal of Biomechanics, in press.</p>
+</div>
+<div class="section" id="loading-and-viewing-the-data-matlab">
+<h2>Loading and viewing the data (MATLAB)<a class="headerlink" href="#loading-and-viewing-the-data-matlab" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="n">file_name</span> <span class="o">=</span> <span class="s1">&#39;datasetA.h5&#39;</span><span class="p">;</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">y</span> <span class="o">=</span> <span class="n">hdf5read</span><span class="p">(</span><span class="n">file_name</span><span class="p">,</span> <span class="s1">&#39;/y&#39;</span><span class="p">);</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">plot</span><span class="p">(</span><span class="n">y</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="loading-and-viewing-the-data-python">
+<h2>Loading and viewing the data (Python)<a class="headerlink" href="#loading-and-viewing-the-data-python" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="kn">import</span> <span class="nn">tables</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="kn">from</span> <span class="nn">matplotlib</span> <span class="k">import</span> <span class="n">pyplot</span>
+</pre></div>
+</div>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="n">file_name</span> <span class="o">=</span> <span class="s1">&#39;datasetA.h5&#39;</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">file_id</span> <span class="o">=</span> <span class="n">tables</span><span class="o">.</span><span class="n">openFile</span><span class="p">(</span><span class="n">file_name</span><span class="p">,</span> <span class="n">mode</span><span class="o">=</span><span class="s1">&#39;r&#39;</span><span class="p">)</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">y</span> <span class="o">=</span> <span class="n">file_id</span><span class="o">.</span><span class="n">getNode</span><span class="p">(</span><span class="s1">&#39;/y&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">file_id</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+</pre></div>
+</div>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="n">pyplot</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">y</span><span class="o">.</span><span class="n">T</span><span class="p">)</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">pyplot</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="data-format">
+<h2>Data format<a class="headerlink" href="#data-format" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>Please find information about the HDF5 format at: <a class="reference external" href="http://www.hdfgroup.org/HDF5/">www.hdfgroup.org/HDF5</a></p>
+</div>
+<div class="section" id="license">
+<h2>LICENSE<a class="headerlink" href="#license" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>Copyright (c) 2014 Todd Colin Pataky, Jos Vanrenterghem, and Mark Robinson</p>
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &#8220;Software&#8221;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+<p>THE SOFTWARE IS PROVIDED &#8220;AS IS&#8221;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+            <p class="logo"><a href="../index.html">
+              <img class="logo" src="../_static/shinshu_alpha.png" alt="Logo"/>
+            </a></p>
+<h3><a href="../index.html">目次</a></h3>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../Research.html">Research</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../Publications.html">Publications</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../People.html">People</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../Software.html">Software</a></li>
+</ul>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../Datasets.html">Datasets</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="spm1d.html">spm1d</a></li>
+<li class="toctree-l2"><a class="reference internal" href="mun104.html">mun104</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">data1d</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../Contact.html">Contact</a></li>
+</ul>
+
+<div id="searchbox" style="display: none" role="search">
+  <h3>クイック検索</h3>
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="検索" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2016, Todd Pataky.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.4.1</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.7</a>
+      
+      |
+      <a href="../_sources/Datasets/data1d.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

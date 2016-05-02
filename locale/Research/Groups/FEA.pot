@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Todd Pataky
+# This file is distributed under the same license as the tpataky.net package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tpataky.net 0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-02 17:12+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/Research/Groups/FEA.rst:5
+msgid "Finite Element Analysis Group"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:10
+msgid "FEAgroup Poster"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:22
+msgid "Research"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:23
+msgid "Bone fracture risk evaluation of the osteoporotic bone"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:27
+msgid "Background"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:29
+msgid "Osteoporotic patients increase."
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:30
+msgid "Osteoporosis is the disease that becomes easy to be fractured."
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:31
+msgid "By the bone fracture, everyday life may become difficult."
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:32
+msgid "It is important that we understand the risk of the bone fracture."
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:36
+msgid "Purpose"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:38
+msgid "We analyze bone models to discover the risk of the bone fracture."
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:42
+msgid "Research contents"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:44
+msgid "We use the bone model that I constituted from CT images."
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:45
+msgid "We set the parameter of the model."
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:46
+msgid "We make a finite element analysis."
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:49
+msgid "Equipment"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:50
+msgid "Python"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:51
+msgid "X-ray CT scanner"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:52
+msgid "Cluster"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:56
+msgid "Progress reports"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:58
+msgid "Make simple bone models by Blender and complex bone models by CT images"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:59
+msgid "Perform Probabilistic Analysis(PA)"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:65
+msgid "It is partly funded by an International Exchanges Scheme from `RoyalSociety(UK) <http://royalsocietypublishing.org>`_."
+msgstr ""
+

@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Todd Pataky
+# This file is distributed under the same license as the tpataky.net package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tpataky.net 0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-02 17:12+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/Datasets/mun104.rst:4
+msgid "mun104"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:6
+msgid "MUN104:  Plantar pressure distribution template"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:16
+msgid "Overview"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:17
+msgid "These are the MUN104 left- and right- plantar pressure distribution templates, computed from 104 subjects at the University of Münster, Germany."
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:19
+msgid "Recommended uses: as a datum for comparisons with individuals and/or other populations."
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:26
+msgid "Data"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:28
+msgid ":download:`MUN104.h5.zip <./downloads/MUN104.h5.zip>` (for Matlab, Python, C, etc.)"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:29
+msgid ":download:`MUN104.csv.zip <./downloads/MUN104.csv.zip>` (for spreadsheet applications like Microsoft Excel)"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:36
+msgid "Reference"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:37
+msgid "Pataky TC, Bosch K, Mu T, Keijsers NLW, Segers V, Rosenbaum D, Goulermas JY (2011). An anatomically unbiased foot template for inter-subject plantar pressure evaluation. Gait and Posture 33(3): 418-422."
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:46
+msgid "Loading and viewing the data (MATLAB)"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:60
+msgid "Loading and viewing the data (Python)"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:76
+msgid "Data format"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:77
+msgid "HDF5 is an open data format, excellent for the fast reading-and-writing of large datasets. Please find more information at: `www.hdfgroup.org/HDF5 <http://www.hdfgroup.org/HDF5/>`_"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:85
+msgid "LICENSE"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:86
+msgid "Copyright (c) 2011 Todd Colin Pataky, Kerstin Bosch, and Dieter Rosenbaum"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:88
+msgid "Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:"
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:90
+msgid "The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software."
+msgstr ""
+
+#: ../source/Datasets/mun104.rst:92
+msgid "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+msgstr ""
+

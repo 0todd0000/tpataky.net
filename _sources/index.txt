@@ -3,20 +3,14 @@
 Applied Biomechanics Laboratory
 ===================================
 
-:ref:`日本語 <label-homeJ>`
 
+`日本語 <./ja/index.html>`_
 
 .. image:: images/stochastic.png
 
 
 
 *Random processes in human movement.*
-
-.. toctree::
-   :hidden:
-   
-   indexJ.rst
-
 
 .. toctree::
    :maxdepth: 2
