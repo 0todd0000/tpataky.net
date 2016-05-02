@@ -4,6 +4,8 @@
 Golf Group
 ===================================
 
+This project is funded by a "Houga" research grant from JSPS (Japan), with additional support from Nike Golf.
+
 .. image:: ../images/poster_golf.jpg
     :width: 80%
 
@@ -15,7 +17,7 @@ Members:
 * :ref:`Yuhei Shibata<label-shibata>`
 
 
-Funded in part by a JSPS Houga research grant, with support from Nike Golf.
+
 
 
 

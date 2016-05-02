@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 20:38+0900\n"
+"POT-Creation-Date: 2016-05-02 21:00+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,19 +20,19 @@ msgstr ""
 msgid "Golf Group"
 msgstr ""
 
-#: ../source/Research/Groups/Golf.rst:11
-msgid "Members:"
+#: ../source/Research/Groups/Golf.rst:7
+msgid "This project is funded by a \"Houga\" research grant from JSPS (Japan), with additional support from Nike Golf."
 msgstr ""
 
 #: ../source/Research/Groups/Golf.rst:13
-msgid ":ref:`Akira Nakanishi<label-nakanishi>`"
+msgid "Members:"
 msgstr ""
 
 #: ../source/Research/Groups/Golf.rst:15
-msgid ":ref:`Yuhei Shibata<label-shibata>`"
+msgid ":ref:`Akira Nakanishi<label-nakanishi>`"
 msgstr ""
 
-#: ../source/Research/Groups/Golf.rst:18
-msgid "Funded in part by a JSPS Houga research grant, with support from Nike Golf."
+#: ../source/Research/Groups/Golf.rst:17
+msgid ":ref:`Yuhei Shibata<label-shibata>`"
 msgstr ""
 

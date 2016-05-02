@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 20:38+0900\n"
+"POT-Creation-Date: 2016-05-02 21:00+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,6 +18,10 @@ msgstr ""
 
 #: ../source/Research/Groups/FEA.rst:5
 msgid "Finite Element Analysis Group"
+msgstr ""
+
+#: ../source/Research/Groups/FEA.rst:7
+msgid "This project is conducted in collaboration with Phil Cox (Hull-York Medical School, UK) and Michihiko Koseki (Shinshu University, Japan).  It is funded in part by an International Exchanges Scheme from the Royal Society (UK)."
 msgstr ""
 
 #: ../source/Research/Groups/FEA.rst:16
@@ -30,9 +34,5 @@ msgstr ""
 
 #: ../source/Research/Groups/FEA.rst:20
 msgid ":ref:`Sachiho Yamaguchi<label-sachiho>`"
-msgstr ""
-
-#: ../source/Research/Groups/FEA.rst:67
-msgid "Funded in part by an International Exchanges Scheme from `RoyalSociety(UK) <http://royalsocietypublishing.org>`_."
 msgstr ""
 

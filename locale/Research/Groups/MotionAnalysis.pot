@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tpataky.net 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-02 20:38+0900\n"
+"POT-Creation-Date: 2016-05-02 21:00+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,6 +18,10 @@ msgstr ""
 
 #: ../source/Research/Groups/MotionAnalysis.rst:5
 msgid "Motion Analysis Group"
+msgstr ""
+
+#: ../source/Research/Groups/MotionAnalysis.rst:7
+msgid "This group is funded by a \"Wakate A\" research grant from JSPS (Japan)."
 msgstr ""
 
 #: ../source/Research/Groups/MotionAnalysis.rst:15
@@ -42,9 +46,5 @@ msgstr ""
 
 #: ../source/Research/Groups/MotionAnalysis.rst:25
 msgid ":ref:`Toshinari Nagaya<label-nagaya>`"
-msgstr ""
-
-#: ../source/Research/Groups/MotionAnalysis.rst:29
-msgid "Funded by a JSPS Wakate A grant."
 msgstr ""
 

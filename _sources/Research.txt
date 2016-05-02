@@ -23,10 +23,4 @@ Research
 .. toctree::
    :maxdepth: 2
    
-   Research/Projects.rst
-
-
-.. toctree::
-   :maxdepth: 2
-   
    Research/Groups.rst

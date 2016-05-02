@@ -4,7 +4,7 @@
 Motion Analysis Group
 ===================================
 
-
+This group is funded by a "Wakate A" research grant from JSPS (Japan).
 
 .. image:: ../images/poster_motion.jpg
     :width: 80%
@@ -26,4 +26,3 @@ Members:
 
 
 
-Funded by a JSPS Wakate A grant.
