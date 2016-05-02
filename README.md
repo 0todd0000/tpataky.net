@@ -1,8 +1,15 @@
 # tpataky.net
 
-Source files for tpataky.net
+
+
+Source files:
+--------------
+
+Change to the "gh-pages" branch
+
 
 Webpage access:
+--------------
 
 http://tpataky.net
 
